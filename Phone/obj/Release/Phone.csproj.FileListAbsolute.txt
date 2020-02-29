@@ -1,4 +1,0 @@
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\bin\Release\Phone.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\bin\Release\Phone.pdb
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\obj\Release\Phone.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\obj\Release\Phone.pdb

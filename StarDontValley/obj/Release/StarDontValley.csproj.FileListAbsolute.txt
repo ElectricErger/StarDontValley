@@ -1,5 +1,0 @@
-C:\Users\Maximillian Johnson\Documents\StarDontValley\StarDontValley\bin\Release\StarDontValley.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\StarDontValley\bin\Release\StarDontValley.pdb
-C:\Users\Maximillian Johnson\Documents\StarDontValley\StarDontValley\obj\Release\StarDontValley.csprojAssemblyReference.cache
-C:\Users\Maximillian Johnson\Documents\StarDontValley\StarDontValley\obj\Release\StarDontValley.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\StarDontValley\obj\Release\StarDontValley.pdb

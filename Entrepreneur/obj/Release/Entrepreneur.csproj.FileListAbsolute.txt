@@ -1,5 +1,0 @@
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\bin\Release\Entrepreneur.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\bin\Release\Entrepreneur.pdb
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Release\Entrepreneur.csprojAssemblyReference.cache
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Release\Entrepreneur.dll
-C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Release\Entrepreneur.pdb
