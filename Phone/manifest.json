@@ -1,0 +1,10 @@
+﻿{
+  "Name": "StarDontValley",
+  "Author": "ElectricErger",
+  "Version": "1.0.0",
+  "Description": "Replaces all mouse events with Prof. Oak",
+  "UniqueID": "ElectricErger.StarDontValley",
+  "EntryDll": "StarDontValley.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}

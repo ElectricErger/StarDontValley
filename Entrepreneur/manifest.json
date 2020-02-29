@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Entrepreneur",
+  "Author": "ElectricErger",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "ElectricErger.Entrepreneur",
+  "EntryDll": "Entrepreneur.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}

@@ -1,0 +1,5 @@
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\bin\Debug\Entrepreneur.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\bin\Debug\Entrepreneur.pdb
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Debug\Entrepreneur.csprojAssemblyReference.cache
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Debug\Entrepreneur.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Entrepreneur\obj\Debug\Entrepreneur.pdb

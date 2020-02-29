@@ -1,0 +1,5 @@
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Hygiene\bin\Debug\Hygiene.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Hygiene\bin\Debug\Hygiene.pdb
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Hygiene\obj\Debug\Hygiene.csprojAssemblyReference.cache
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Hygiene\obj\Debug\Hygiene.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Hygiene\obj\Debug\Hygiene.pdb

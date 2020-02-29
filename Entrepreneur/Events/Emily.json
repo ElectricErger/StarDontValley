@@ -1,0 +1,45 @@
+﻿{
+"9009000000/f Emily 1500/p Emily": "playful/11 20/farmer 14 24 0 Emily 14 30/skippable/speak Emily \"@! I'm ready to starta business.^Can you lend me 50000 gold?\"/addQuest 99/"
+"99":"Basic/Haily's Business/Your friend Haily wants to startup a business. To do so she'll need 50000 gold./Raise 50000 gold./-1/-1/0/-1/false"
+}
+/*
+"17": "Basic/
+Deeper In The Mine/
+It seems that the mine elevator is still functional. It will allow you to quickly return to any elevator doors you've discovered. A deeper expedition might be in order./
+Reach level 40 in the mines./
+18/
+18/
+0/
+-1/
+false",
+*/
+/* Text
+Controls:
+# = Function delimiter
+@ = Your name
+#$b = Newline (LMB)
+#$e = End dialog. Any text after this will be on next interaction (loop?)
+    Strangely enough #$b# Seems to be a thing. Not sure why. Probably to end the command?
+
+Questions:
+#$q <event> <fallback> # <question> = Ask a question
+#$r <event> <friendship> <JSONResponseName>#<Response be displayed>= If you selected this response
+
+Emotions:
+#$neutral = Neutral
+#$a = Angry
+#$s = Sad
+#$l = Love
+#$h = Happy
+#$u = Unique
+#$<num> = Custom
+
+Example:
+speak Elliott \"$q 28376 null#Wait. I propose a toast! To...#$r 28376 25 event_toast4#To Pelican Town!#$r 28376 50 event_toast2#To our friendship!#$r 28376 -10 event_toast1#To my good health!#$r 28376 -50 event_toast3#To your doom!\"/
+> Elliott is talking
+> A question is asked (event 28376) "Wait. I propose a toast! To..."
+> You're prompted with 4 responses "To Pelican Town!", "To our friendship", "To my good health", "To your doom"
+> All of these responses are associated with the event/question. But result in various different friendship penalties: +25, +50, -10, -50
+> If selected, the associated message will be looked up (in this case from Elliot.xnb) and displayed.
+*/
+}

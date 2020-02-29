@@ -1,0 +1,5 @@
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\bin\Debug\Phone.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\bin\Debug\Phone.pdb
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\obj\Debug\Phone.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Phone\obj\Debug\Phone.pdb

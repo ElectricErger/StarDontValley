@@ -1,0 +1,4 @@
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\bin\Release\Timeturner.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\bin\Release\Timeturner.pdb
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\obj\Release\Timeturner.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\obj\Release\Timeturner.pdb

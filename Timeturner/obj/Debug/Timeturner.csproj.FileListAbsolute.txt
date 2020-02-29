@@ -1,0 +1,5 @@
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\bin\Debug\Timeturner.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\bin\Debug\Timeturner.pdb
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\obj\Debug\Timeturner.csprojAssemblyReference.cache
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\obj\Debug\Timeturner.dll
+C:\Users\Maximillian Johnson\Documents\StarDontValley\Timeturner\obj\Debug\Timeturner.pdb
